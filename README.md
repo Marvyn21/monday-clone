@@ -4,11 +4,11 @@ Monday-Clone is a Jira-like app that allows teams to manage and track their proj
 
 Getting Started:
 
-Sign up for an account on the Monday-Clone website.
-Create a new project and invite team members to join.
-Create and assign tasks to team members with deadlines.
-Use the built-in calendar to keep track of upcoming deadlines.
-Use the progress tracking feature to monitor the status of tasks and projects.
+1.Sign up for an account on the Monday-Clone website.
+2.Create a new project and invite team members to join.
+3.Create and assign tasks to team members with deadlines.
+4.Use the built-in calendar to keep track of upcoming deadlines.
+5.Use the progress tracking feature to monitor the status of tasks and projects.
 Features:
 
 Task Management: Create and assign tasks to team members with deadlines.
