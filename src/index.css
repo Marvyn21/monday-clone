@@ -10,5 +10,37 @@ html, body {
 }
 
 Nav {
-    
+    height: 100vh;
+    background-color: rgb(43, 43, 63);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+Nav .logo-container,
+Nav .controls-container{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+Nav .logo-container img{
+    width: 20px;
+}
+
+Nav .icon{
+    color: rgb(255, 255, 255);
+}
+
+.dashboard .ticket-container{
+    height: 80vh;
+    overflow: scroll;
+}
+
+/*----- TicketCard -----*/
+.ticket-card{
+    display: flex;
+    width: 100%;
 }
